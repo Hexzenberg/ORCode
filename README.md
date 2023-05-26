@@ -20,8 +20,8 @@ Made this simple website as my first challenge from the frontend mentor website.
 
 ### Links
 
-- Solution URL: https://github.com/Hexzenberg/QR-Code-Project
-- Live Site URL: https://hexzenberg.github.io/QR-Code-Project/
+- Solution URL: https://github.com/Hexzenberg/ORCode
+- Live Site URL: 
 
 ## My process
 

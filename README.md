@@ -21,7 +21,7 @@ Made this simple website as my first challenge from the frontend mentor website.
 ### Links
 
 - Solution URL: https://github.com/Hexzenberg/ORCode
-- Live Site URL: 
+- Live Site URL: https://hexzenberg.github.io/ORCode/
 
 ## My process
 

@@ -14,7 +14,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Made this simple website as my first challenge from the frontend mentor website.
 
 ### Screenshot
-![image](https://github.com/Hexzenberg/QR-Code-Project/assets/98541526/577f2910-7d7a-4071-a35b-9b9e6cb9cf54)
+![image](https://github.com/Hexzenberg/ORCode/assets/98541526/0f1b8018-e5b7-41d3-926f-9336971225f8)
+
 
 
 ### Links
